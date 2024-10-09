@@ -1,1 +1,3 @@
-me in my little world
+me in my little world....
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor06&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
